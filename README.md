@@ -10,7 +10,7 @@ This script allows you to **intercept incoming Modbus coil requests, manipulate 
 
 ## Features
 
-- TCP Modbus server on any port (default test port: 5020)  
+- TCP Modbus server on any port (default test port: 502)  
 - Manipulates all incoming coils to 0  
 - Asynchronous forwarding to the real PLC  
 - Dynamic target IP input  
