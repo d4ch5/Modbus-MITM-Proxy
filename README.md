@@ -1,6 +1,6 @@
 # Modbus MITM 
 
-A simple **Modbus TCP Man-in-the-Middle (MITM) ** written in Python 3, based on PyModbus 3.x.
+A simple **Modbus TCP Man-in-the-Middle (MITM)** written in Python 3, based on PyModbus 3.x.
 
 This script allows you to intercept incoming Modbus coil requests, manipulate them (e.g., set all to 0), and forward the modified values to the real PLC. It is intended for penetration testing, demonstrations, and security research**.
 
