@@ -1,4 +1,4 @@
-# Modbus MITM (Python)
+# Modbus MITM 
 
 A simple **Modbus TCP Man-in-the-Middle (MITM) proxy** written in Python 3, based on **PyModbus 3.x**.
 
