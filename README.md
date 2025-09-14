@@ -4,7 +4,7 @@ A simple **Modbus TCP Man-in-the-Middle (MITM) proxy** written in Python 3, base
 
 This script allows you to **intercept incoming Modbus coil requests, manipulate them** (e.g., set all to 0), and forward the modified values to the real PLC. It is intended for **penetration testing, demonstrations, and security research**.
 
-![Demo](assets/demo.gif)
+![Demo](https://github.com/d4ch5/Modbus-MITM-Proxy/raw/main/assets/demo.gif)
 
 
 > ⚠️ Use only in controlled test environments! Do not run on production systems.
